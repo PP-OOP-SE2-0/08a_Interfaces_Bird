@@ -9,7 +9,6 @@ public class Bird implements Flyable, IFeathers {
 
     @Override
     public String hasFeathers() {
-        // TODO Auto-generated method stub
         return "I'm a bird, I have feathers!";
     }
     
